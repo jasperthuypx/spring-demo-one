@@ -1,0 +1,16 @@
+Step to inject dependency:
+    - Define the dependency interface and class
+        Create interface FortuneService
+        Create implementation class HappyFortuneService implement FortuneService interface
+    - Create a constructor in your class for injection
+    - Configure the dependency injection in Spring config file
+        Via setter:
+            - Create setter method(s)
+            - configure in config file
+        Inject values from property file
+            - Create props file
+            - Load file
+            - Reference file
+
+        Part 6 waiting
+        
