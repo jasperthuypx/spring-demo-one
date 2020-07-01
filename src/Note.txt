@@ -11,6 +11,3 @@ Step to inject dependency:
             - Create props file
             - Load file
             - Reference file
-
-        Part 6 waiting
-        
